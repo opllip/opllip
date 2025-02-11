@@ -25,7 +25,7 @@
   <img alt="postman" src ="https://img.shields.io/badge/postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white"/>
 </div>
 <br clear="both">
-<img alt="사용언어" align="right"   widht="320" src ="https://github-readme-stats.vercel.app/api/top-langs?username=opllip&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true"/>
+<img alt="사용언어" align="right"   widht="320" src ="https://github-readme-stats.vercel.app/api/top-langs?username=opllip&layout=compact&card_width=320&langs_count=5&hide=python&theme=dracula&hide_border=true"/>
 
 <h3 align="center">📫Contact📫</h3>
 <div align="center">
