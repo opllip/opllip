@@ -25,8 +25,7 @@
   <img alt="postman" src ="https://img.shields.io/badge/postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white"/>
 </div>
 <br clear="both">
-<img alt="사용언어" align="right"   widht="320" src ="https://github-readme-stats.vercel.app/api/top-langs?username=opllip&layout=compact&card_width=320&langs_count=5&hide=python&theme=dracula&hide_border=true"/>
-
+<!-- <img alt="사용언어" align="right"   widht="320" src ="https://github-readme-stats.vercel.app/api/top-langs?username=opllip&layout=compact&card_width=320&langs_count=5&hide=python&theme=dracula&hide_border=true"/>
 <h3 align="center">📫Contact📫</h3>
 <div align="center">
   
@@ -35,7 +34,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fopllip%2Fhit-counter&count_bg=%23282A36&title_bg=%23282A36&icon=github.svg&icon_color=%2379DAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-<br clear="both">
+<br clear="both"> -->
+
+
 
 ---
 
@@ -52,6 +53,16 @@
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=opllip&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4&rank=-?,-C"  height="200px" width="600px" alt="트로피" />
+</div>
+<br clear="both">
+
+<h3 align="center">📫Contact📫</h3>
+<div align="center">
+  
+[![blog](https://img.shields.io/badge/blog-03C75A.svg?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/sunny5241)
+[![gmail](https://img.shields.io/badge/shailun12@gmail.com-EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shailun12@gmail.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fopllip%2Fhit-counter&count_bg=%23282A36&title_bg=%23282A36&icon=github.svg&icon_color=%2379DAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <br clear="both">
 
