@@ -62,7 +62,6 @@
 [![blog](https://img.shields.io/badge/blog-03C75A.svg?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/sunny5241)
 [![gmail](https://img.shields.io/badge/shailun12@gmail.com-EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shailun12@gmail.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fopllip%2Fhit-counter&count_bg=%23282A36&title_bg=%23282A36&icon=github.svg&icon_color=%2379DAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <br clear="both">
 
@@ -74,6 +73,8 @@
 
 
 <!--
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fopllip%2Fhit-counter&count_bg=%23282A36&title_bg=%23282A36&icon=github.svg&icon_color=%2379DAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
     ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=opllip&hide_title=true&show_icons=true&theme=dracula&hide_border=true&hide=stars&include_all_commits=true&count_private=true&hide_rank=true&card_width=320)
     
